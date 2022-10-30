@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --header: grey;
+    --main: white;
+}
+
+body {
+    font-family: 'Signika Negative', sans-serif;
+}
+
+#navbar {
+    background-color: var(--header);
+    color: var(--main);
+    font-size: 50px;
+}
+
+.navbar-brand {
+    font-size: 50px;
+}
+
+
+.card-header {
+    background-color: var(--header);
+    color: var(--main);
+}
+
+.card-body {
+    background-color: var(--main);
+    color: var(--header);
+}
+
+.container {
+    margin: 100px auto;
+    justify-content: space-evenly;
+    display: flex;
+    
+}
