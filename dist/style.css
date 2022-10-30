@@ -3,7 +3,8 @@
 }
 
 :root {
-    --header: grey;
+    --navbar: rgba(245, 63, 63, 0.858);
+    --header: rgba(0, 0, 255, 0.519);
     --main: white;
 }
 
@@ -12,7 +13,7 @@ body {
 }
 
 #navbar {
-    background-color: var(--header);
+    background-color: var(--navbar);
     color: var(--main);
     font-size: 50px;
 }

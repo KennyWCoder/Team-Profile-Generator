@@ -184,7 +184,7 @@ const addEmployee = () => {
 
 };
 
-//create the html
+//create the html into index.html
 const writeFile = data => {
     fs.writeFile('./dist/index.html', data, err => {
         if (err) {
