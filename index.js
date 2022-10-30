@@ -77,6 +77,7 @@ const addManager = () => {
 
 const addEmployee = () => {
     //prompting for new employee addon
+    console.log("Please provide your employee info:")
     return inquirer.prompt ([
         {
             type: 'list',
