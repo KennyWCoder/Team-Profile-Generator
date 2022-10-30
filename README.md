@@ -1,4 +1,4 @@
-# Team-Profile-Generator
+# Team Profile Generator
   ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Description
   A Generator to create a team members info. It will also show their email and github profiles.
