@@ -7,9 +7,6 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
   
   ## Installation
   Inquier 8.1.2 and Jest for testing
