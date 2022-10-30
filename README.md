@@ -2,7 +2,8 @@
   ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Description
   A Generator to create a team members info. It will also show their email and github profiles.
-  <img width="1440" alt="Screen Shot 2022-10-29 at 11 07 06 PM" src="https://user-images.githubusercontent.com/97656734/198865082-490d41d8-ffa7-4ba7-9ba4-   5f0e97711009.png">
+<img width="1440" alt="Screen Shot 2022-10-29 at 11 07 06 PM" src="https://user-images.githubusercontent.com/97656734/198865092-7ff6bc88-35e3-4c2e-a04e-cab224fcff66.png">
+
 
 
   
